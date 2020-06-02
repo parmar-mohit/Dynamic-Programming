@@ -10,5 +10,4 @@ def mut(a,b):
 
 def dvd(a,b):
 	return a / b
-
-~~`
+```
